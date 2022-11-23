@@ -1,4 +1,4 @@
-# Xavier 2.1.4 Demo Application - Android APK
+# Xavier Demo Application - Android APK
 This is the repository for the Xavier Demo app for Android APK. You can download the APK and install it on your Android device.
 
 #### Downloads
