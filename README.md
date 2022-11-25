@@ -5,8 +5,7 @@ This is the repository for the Xavier Demo app for Android APK. You can download
 
 | Version | Download | Date |
 |---------|----------|------|
-| v2.1.4 | [xavier-demo-2.1.4.apk](./APK/xavier-demo-2.1.4.apk) | 2022/11/15|
-| v2.1.5b | [xavier-demo-2.1.5b.apk](./APK/xavier-demo-2.1.5b.apk) | 2022/11/23|
+| v2.1.5b | [xavier-demo-2.1.5b.apk](./APK/xavier-demo-2.1.5b.apk) | 2022/11/25|
 
 ***Note***: The `Download` button is located on the right side after clicking the above link.
 
